@@ -1,0 +1,27 @@
+DP:
+- 10
+-> Elapsed time: 20430 ns
+-> Memory usage: 590216 bytes
+
+- 40
+-> Elapsed time: 254380 ns
+-> Memory usage: 590336 bytes
+
+- 80
+-> Elapsed time: 188290 ns
+-> Memory usage: 590840 bytes
+
+===============================
+
+BNB:
+- 10
+-> Elapsed time: 73830 ns
+-> Memory usage: 556392 bytes
+
+- 40
+-> Elapsed time: 80,1140919 s
+-> Memory usage: 557008 bytes
+
+- 80
+-> Elapsed time: > 2 hours
+-> Memory usage: undefined
